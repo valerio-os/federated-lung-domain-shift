@@ -1,4 +1,4 @@
-# The impacts of federated learning on CNNs with histological imagery: a study with lung tissue
+# The impacts of federated learning on CNNs with histological imagery: analysing domain-skews and class imbalance with lung tissue datasets.
 
   When building a histopathology classifier with CNNs we encounter two big challenges: how can we ensure privacy from hospital/lab data, deal with domain shifts from each source's image extraction methods and also deal with data imbalance from each local training node?
 
